@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeMaths", "HomeMaths\HomeMaths.csproj", "{ACC9C7A2-B805-441E-901D-24847397308A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A0F1B4A0-1DE1-470B-9707-A1401971A21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC9C7A2-B805-441E-901D-24847397308A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC9C7A2-B805-441E-901D-24847397308A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC9C7A2-B805-441E-901D-24847397308A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC9C7A2-B805-441E-901D-24847397308A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB5EFD6-CB1A-46C7-B88F-8850FD4D0EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB5EFD6-CB1A-46C7-B88F-8850FD4D0EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB5EFD6-CB1A-46C7-B88F-8850FD4D0EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB5EFD6-CB1A-46C7-B88F-8850FD4D0EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F1B4A0-1DE1-470B-9707-A1401971A21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F1B4A0-1DE1-470B-9707-A1401971A21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F1B4A0-1DE1-470B-9707-A1401971A21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F1B4A0-1DE1-470B-9707-A1401971A21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
